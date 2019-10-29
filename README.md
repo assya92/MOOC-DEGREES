@@ -3,7 +3,7 @@
 A list of all the online courses I have taken which matches both an MBA as well as  set of courses taken in a traditional bioinformatics/Health informatics MS. 
 
 I took the liberty to add electives that I saw interesting and matched my educational goals.
-I mainly took courses offered by Coursera as they accorded me financial assistance for the certifcates and I audited some on other plateforms as well.
+I mainly took courses offered by Coursera as they granted me financial assistance for the certifcates and I audited some on other plateforms as well.
 
 
 
