@@ -13,8 +13,9 @@ I mainly took courses offered by Coursera as they accorded me financial assistan
 - [ Fixed Core courses](https://github.com/assya92/MOOC-DEGREES/#Fixed-Core)
 - [ FLexible Core Courses](https://github.com/assya92/MOOC-DEGREES/#FLexible-Core)
 - [Finance Major Courses](https://github.com/assya92/MOOC-DEGREES/#Finance-Major )
--[Elective Courses](https://github.com/assya92/MOOC-DEGREES/#Electives )
+- [Elective Courses](https://github.com/assya92/MOOC-DEGREES/#Electives )
 2) [MS Bioinformatics/Health Informatics courses ](https://github.com/assya92/MOOC-DEGREES/#MS-Bioinformatics-Health-Informatics-Courses)
+
 
 
 ## MBA Curriculum 
