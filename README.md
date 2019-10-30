@@ -222,11 +222,36 @@ Course |   University  | Duration | Effort | Certificate
 [Introduction to Translational Science](https://www.coursera.org/learn/intro-translational-science) | University of Rochester | 3 weeks | 2-3  Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/BPFZCTGJLDG9)
 [ The Science of Stem Cells](https://www.coursera.org/learn/stem-cells) | American Museum of Natural History | 5 weeks | 7 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/E4HFQ3NCRKJV)
 [ Introductory Human Physiology](https://www.coursera.org/learn/stem-cells) | Duke University | 10 weeks | 3-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/FGY5VQ4AU2NK)
-[ Doing Clinical Research: Biostatistics with the Wolfram Languague ](https://www.coursera.org/learn/clinical-research-biostatistics-wolfram) | University of Cape Town | 4 weeks | 5 Hours/Week|[Verify Certificate]( https://www.coursera.org/account/accomplishments/records/8HQGR22YEA84)
+[ Doing Clinical Research: Biostatistics with the Wolfram Languague ](https://www.coursera.org/learn/clinical-research-biostatistics-wolfram) | University of Cape Town | 4 weeks | 5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/8HQGR22YEA84)
+[Practical Time Series Analysis ](https://www.coursera.org/learn/practical-time-series-analysis) |  The State University of New York  | 6 weeks | 9 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/259LM65F95SR)
+[Getting started with Python ](https://www.coursera.org/learn/python) | University of Michigan | 4 weeks | 2-4 Hours/Week|[Verify Certificate]( https://www.coursera.org/account/accomplishments/records/L8YZV2QXLW2H)
 [ Applied Data Science with Python Specialization ](https://www.coursera.org/specializations/data-science-python) | University of Michigan | Approx. 5 months to complete | 8 Hours/Week|[Verify Certificate]
 [Introduction to Data Science in Python ](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) | University of Michigan | 4 weeks | 7 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/97LTHC5XKDTN)
 [Applied Plotting, Charting & Data Representation in Python ](https://www.coursera.org/learn/python-plotting?specialization=data-science-python) | University of Michigan | 4 weeks | 6 Hours/Week|Completed,Waiting for peer review to get my certificate.
-[Introduction to Data Science in Python ](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) | University of Michigan | 4 weeks | 7 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/97LTHC5XKDTN)
+[Applied Machine Learning in Python ](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python) | University of Michigan | 4 weeks | 9 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/WV8772GCTAEX)
+[Applied Text Mining in Python ](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python) | University of Michigan | 4 weeks | 9 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/X4F5SXDKB9TP)
+[Applied Social Network Analysis in Python ](https://www.coursera.org/learn/python-social-network-analysis) | University of Michigan | 4 weeks | 11 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/X4F5SXDKB9TP)
+[Mathematics for Machine Learning Specialization ](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | Approx. 2 months to complete | 12 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/X4F5SXDKB9TP)
+[Mathematics for Machine Learning: Linear Algebra ](https://www.coursera.org/learn/linear-algebra-machine-learning) | Imperial College London | 5 weeks | 2-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/KMB5NXLCHXD7)
+[Mathematics for Machine Learning: Multivariate Calculus ](https://www.coursera.org/learn/multivariate-calculus-machine-learning) | Imperial College London | 6 weeks | 2-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/RHBASGQE9FDA)
+[Mathematics for Machine Learning: PCA ](https://www.coursera.org/learn/pca-machine-learning) | Imperial College London | 4 weeks | 4-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/UHK8435T24TD)
+[Deep Learning Specialization ](https://www.coursera.org/specializations/deep-learning) |  deeplearning.ai  |Approx. 3 months to complete | 11 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/CLV3NXQR3HGA)
+[Neural Networks and Deep Learning ](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) |  deeplearning.ai  | 4 weeks | 4-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/JXRSYAHMFG9N)
+[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization ](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) |  deeplearning.ai  | 3 weeks | 3-6 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/JGQQHYFW8REA)
+[Structuring Machine Learning Projects ](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) |  deeplearning.ai  | 2 weeks | 3-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/KLPS25EQX7H4)
+[Convolutional Neural Networks ](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) |  deeplearning.ai  | 4 weeks | 4-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/UWRZKXHJFR62)
+[Sequence Models ](https://www.coursera.org/learn/nlp-sequence-models) |  deeplearning.ai  | 3 weeks | 11 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/9M32XQ77VRTX)
+[TensorFlow in Practice Specialization ](https://www.coursera.org/specializations/tensorflow-in-practice) |  deeplearning.ai  | Approx. 1 month to complete | 14 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/G8AS3VXXDJBG)
+[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning ](https://www.coursera.org/learn/introduction-tensorflow) |  deeplearning.ai  | 4 weeks | 4-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/G25AHUBAN7LY)
+[Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow) |  deeplearning.ai  | 4 weeks | 4-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/4RHPWN95FRA5)
+[Natural Language Processing in TensorFlow ](https://www.coursera.org/learn/natural-language-processing-tensorflow) |  deeplearning.ai  | 4 weeks | 4-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/QPXMNU76JXQL)
+[Sequences, Time Series and Prediction ](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction) |  deeplearning.ai  | 4 weeks | 4-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/BNDARYL7ZTH2)
+[Data Analysis and Interpretation Specialization ](https://www.coursera.org/specializations/data-analysis?) |  Wesleyan University  | Approx. 7 months to complete| 4 Hours/Week| Will be available after capstone completion.
+[Data Management and Visualization ](https://www.coursera.org/learn/data-visualization?specialization=data-analysis) |  Wesleyan University  |4 weeks | 4-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/WM6MCZM9AA6R)
+[Data Analysis Tools ](https://www.coursera.org/learn/data-analysis-tools?specialization=data-analysis) |  Wesleyan University  |4 weeks | 4 Hours/Week|[Verify Certificate]( https://www.coursera.org/account/accomplishments/records/7QJJT6FMTX67)
+[Regression Modeling in Practice ](https://www.coursera.org/learn/regression-modeling-practice?specialization=data-analysis) |  Wesleyan University  |4 weeks | 4-5 Hours/Week|[Verify Certificate]( https://www.coursera.org/account/accomplishments/records/AUQV2FWVHT2D)
+[Machine Learning for Data Analysis ](https://www.coursera.org/learn/machine-learning-data-analysis?specialization=data-analysis) |  Wesleyan University  |4 weeks | 3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/78DCBXGDZ4GP)
+[Data Analysis and Interpretation Capstone ](https://www.coursera.org/learn/data-analysis-capstone) |  Wesleyan University  |4 weeks | 2 Hours/Week| Starts 1st Dec
 
 
 
@@ -238,61 +263,31 @@ Course |   University  | Duration | Effort | Certificate
 
 
 
-## Raw certificates 
 
 
 
 
 
 
-• Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning https://www.coursera.org/account/accomplishments/records/G25AHUBAN7LY
-
-• Convolutional Neural Networks in TensorFlow https://www.coursera.org/account/accomplishments/records/4RHPWN95FRA5
-
-• Natural Language Processing in TensorFlow https://www.coursera.org/account/accomplishments/records/QPXMNU76JXQL
-
-• Sequences, Time Series and Prediction https://www.coursera.org/account/accomplishments/records/BNDARYL7ZTH2
-
-• Mathematics for Machine Learning: PCA https://www.coursera.org/account/accomplishments/records/UHK8435T24TD
-
-• Mathematics for Machine Learning: Multivariate Calculus https://www.coursera.org/account/accomplishments/records/RHBASGQE9FDA
-
-• Mathematics for Machine Learning: Linear Algebra https://www.coursera.org/account/accomplishments/records/KMB5NXLCHXD7
 
 
 
 
 
-• Neural Networks and Deep Learning https://www.coursera.org/account/accomplishments/records/JXRSYAHMFG9N
 
-• Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization: https://www.coursera.org/account/accomplishments/records/JGQQHYFW8REA
 
-• Structuring Machine Learning Projects https://www.coursera.org/account/accomplishments/records/KLPS25EQX7H4
 
-• Convolutional Neural Networks https://www.coursera.org/account/accomplishments/records/UWRZKXHJFR62
-
-• Sequence Models https://www.coursera.org/account/accomplishments/records/9M32XQ77VRTX
-
-• Introduction to Data Science in Python https://www.coursera.org/account/accomplishments/records/97LTHC5XKDTN
-
-• Applied Machine Learning in Python https://www.coursera.org/account/accomplishments/records/WV8772GCTAEX
-
-• Applied Text Mining in Python https://www.coursera.org/account/accomplishments/records/X4F5SXDKB9TP
-
-• Applied Social Network Analysis in Python https://www.coursera.org/account/accomplishments/records/R62YXLU2GT2Q • Introductory Human Physiology
-
-https://www.coursera.org/account/accomplishments/records/FGY5VQ4AU2NK
-• Introduction to Translational Science https://www.coursera.org/account/accomplishments/records/BPFZCTGJLDG9
+ 
 
 • Regression Modeling in Practice https://www.coursera.org/account/accomplishments/records/AUQV2FWVHT2D
 
-• Data Analysis Tools https://www.coursera.org/account/accomplishments/records/7QJJT6FMTX67
+•  https://www.coursera.org/account/accomplishments/records/7QJJT6FMTX67
 
 • Data Management and Visualization https://www.coursera.org/account/accomplishments/records/WM6MCZM9AA6R
 
 • Programming for Everybody (Getting Started with Python) https://www.coursera.org/account/accomplishments/records/L8YZV2QXLW2H
 
-• Practical Time Series Analysis https://www.coursera.org/account/accomplishments/records/259LM65F95SR
+
 
 •Machine Learning for Data Analysis https://www.coursera.org/account/accomplishments/records/78DCBXGDZ4GP
 
