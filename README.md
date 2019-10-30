@@ -277,44 +277,6 @@ Course |   University  | Duration | Effort | Certificate
 
 
 
- 
-
-• Regression Modeling in Practice https://www.coursera.org/account/accomplishments/records/AUQV2FWVHT2D
-
-•  https://www.coursera.org/account/accomplishments/records/7QJJT6FMTX67
-
-• Data Management and Visualization https://www.coursera.org/account/accomplishments/records/WM6MCZM9AA6R
-
-• Programming for Everybody (Getting Started with Python) https://www.coursera.org/account/accomplishments/records/L8YZV2QXLW2H
-
-
-
-•Machine Learning for Data Analysis https://www.coursera.org/account/accomplishments/records/78DCBXGDZ4GP
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
