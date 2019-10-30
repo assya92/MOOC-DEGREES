@@ -208,18 +208,42 @@ Course |   University  | Duration | Effort | Certificate
 [Command Line Tools for Genomic Data Science](https://www.coursera.org/learn/genomic-tools) |Johns Hopkins University |4 weeks | 6-7 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/G7UX37S866WG)
 [Bioconductor for Genomic Data Science](https://www.coursera.org/learn/bioconductor) |Johns Hopkins University |4 weeks | 3-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/HS3YNBB2M4BC)
 [Statistics for Genomic Data Science](https://www.coursera.org/learn/statistical-genomics) |Johns Hopkins University |4 weeks | 4-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/6ERX7U88XLMG)
-[Genomic Data Science Capstone](https://www.coursera.org/learn/genomic-data-science-project) |Johns Hopkins University |8 weeks | 2-4 Hours/Week|[Verify Certificate] Starts in December
+[Genomic Data Science Capstone](https://www.coursera.org/learn/genomic-data-science-project) |Johns Hopkins University |8 weeks | 2-4 Hours/Week | Starts in 8th December 2019
+[HI-FIVE: Health Informatics For Innovation, Value & Enrichment (Clinical Perspective)](https://www.coursera.org/learn/hi-five-clinical) |  Columbia University   | 4 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/Z3B7TS95NHYS)
+[HI-FIVE: Health Informatics For Innovation, Value & Enrichment (Administrative/IT Perspective) )](https://www.coursera.org/learn/hi-five-admin-it) |  Columbia University   | 4 weeks | 2-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/Q7MAEVTTJ9BS)
+[HI-FIVE: Health Informatics For Innovation, Value & Enrichment (Social/Peer Perspective) )](https://www.coursera.org/learn/hi-five-social-peer) |  Columbia University   | 4 weeks | 1-2 Hours/Week|[Verify Certificate]( https://www.coursera.org/account/accomplishments/records/2BL58GL4C94L)
+[Systems Biology and Biotechnology Specialization](https://www.coursera.org/specializations/systems-biology?) | Icahn School of Medicine at Mount Sinai | Approx. 7 months to complete | 5 Hours/Week|[Verify Certificate]
+[Introduction to Systems Biology](https://www.coursera.org/learn/systems-biology?specialization=systems-biology) | Icahn School of Medicine at Mount Sinai | 10 weeks | 6-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/MPC9SXGDX84K)
+[Experimental Methods in Systems Biology](https://www.coursera.org/learn/experimental-methods?specialization=systems-biology) | Icahn School of Medicine at Mount Sinai | 10 weeks | 6-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/39F3SCHKAXY2)
+[Network Analysis in Systems Biology](https://www.coursera.org/learn/network-biology?specialization=systems-biologyy) | Icahn School of Medicine at Mount Sinai | 10 weeks | 6-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/WVQLLH3USS3Q)
+[Dynamical Modeling Methods for Systems Biology](https://www.coursera.org/learn/dynamical-modeling?specialization=systems-biology) | Icahn School of Medicine at Mount Sinai | 7 weeks | 8-10 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/E4HFQ3NCRKJV)
+[Integrated Analysis in Systems Biology](https://www.coursera.org/learn/integrated-analysis) | Icahn School of Medicine at Mount Sinai | 4 weeks | 6-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/Y7NJJDZGYCRG)
+[https://www.coursera.org/learn/systems-biology-capstone](https://www.coursera.org/learn/systems-biology-capstone) | Icahn School of Medicine at Mount Sinai | 1 weeks | 6-8 Hours/Week| Starts 17th Nov 2019
+[Introduction to Translational Science](https://www.coursera.org/learn/intro-translational-science) | University of Rochester | 3 weeks | 2-3  Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/BPFZCTGJLDG9)
+[ The Science of Stem Cells](https://www.coursera.org/learn/stem-cells) | American Museum of Natural History | 5 weeks | 7 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/E4HFQ3NCRKJV)
+[ Introductory Human Physiology](https://www.coursera.org/learn/stem-cells) | Duke University | 10 weeks | 3-4 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/FGY5VQ4AU2NK)
+[ Doing Clinical Research: Biostatistics with the Wolfram Languague ](https://www.coursera.org/learn/clinical-research-biostatistics-wolfram) | University of Cape Town | 4 weeks | 5 Hours/Week|[Verify Certificate]( https://www.coursera.org/account/accomplishments/records/8HQGR22YEA84)
+[ Applied Data Science with Python Specialization ](https://www.coursera.org/specializations/data-science-python) | University of Michigan | Approx. 5 months to complete | 8 Hours/Week|[Verify Certificate]
+[Introduction to Data Science in Python ](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) | University of Michigan | 4 weeks | 7 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/97LTHC5XKDTN)
+[Applied Plotting, Charting & Data Representation in Python ](https://www.coursera.org/learn/python-plotting?specialization=data-science-python) | University of Michigan | 4 weeks | 6 Hours/Week|Completed,Waiting for peer review to get my certificate.
+[Introduction to Data Science in Python ](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) | University of Michigan | 4 weeks | 7 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/97LTHC5XKDTN)
+
+
+
+
+
+
+
+
 
 
 
 ## Raw certificates 
-• Doing Clinical Research: Biostatistics with the Wolfram Languague https://www.coursera.org/account/accomplishments/records/8HQGR22YEA84
 
-• HI-FIVE: Health Informatics For Innovation, Value & Enrichment (Administrative/IT Perspective) https://www.coursera.org/account/accomplishments/records/Q7MAEVTTJ9BS
 
-• HI-FIVE: Health Informatics For Innovation, Value & Enrichment (Clinical Perspective) https://www.coursera.org/account/accomplishments/records/Z3B7TS95NHYS
 
-• HI-FIVE: Health Informatics For Innovation, Value & Enrichment (Social/Peer Perspective) https://www.coursera.org/account/accomplishments/records/2BL58GL4C94L
+
+
 
 • Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning https://www.coursera.org/account/accomplishments/records/G25AHUBAN7LY
 
@@ -235,17 +259,9 @@ Course |   University  | Duration | Effort | Certificate
 
 • Mathematics for Machine Learning: Linear Algebra https://www.coursera.org/account/accomplishments/records/KMB5NXLCHXD7
 
-• The Science of Stem Cells https://www.coursera.org/account/accomplishments/records/S2EAXRTSC9JX
 
-• Introduction to Systems Biology https://www.coursera.org/account/accomplishments/records/MPC9SXGDX84K
 
-• Experimental Methods in Systems Biology https://www.coursera.org/account/accomplishments/records/39F3SCHKAXY2
 
-• Dynamical Modeling Methods for Systems Biology https://www.coursera.org/account/accomplishments/records/E4HFQ3NCRKJV
-
-• Integrated Analysis in Systems Biology https://www.coursera.org/account/accomplishments/records/Y7NJJDZGYCRG
-
-• Network Analysis in Systems Biology https://www.coursera.org/account/accomplishments/records/WVQLLH3USS3Q
 
 • Neural Networks and Deep Learning https://www.coursera.org/account/accomplishments/records/JXRSYAHMFG9N
 
