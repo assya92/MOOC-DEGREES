@@ -11,7 +11,7 @@ I mainly took courses offered by Coursera as they granted me financial assistanc
 
 1) [MBA Curriculum](https://github.com/assya92/MOOC-DEGREES/#MBA-Curriculum)
 - [ Fixed Core Courses](https://github.com/assya92/MOOC-DEGREES/#Fixed-Core)
-- [ FLexible Core Courses](https://github.com/assya92/MOOC-DEGREES/#FLexible-Core)
+- [ Flexible Core Courses](https://github.com/assya92/MOOC-DEGREES/#Flexible-Core)
 - [Finance Major Courses](https://github.com/assya92/MOOC-DEGREES/#Finance-Major )
 - [Elective Courses](https://github.com/assya92/MOOC-DEGREES/#Electives )
 
@@ -79,7 +79,7 @@ Course | University | Duration | Effort | Certificate
 
 
 
- ## FLexible Core
+ ## Flexible Core
   
 Course |   University  | Duration | Effort | Certificate
 :-- | :--: |   :--:  | :--: | :--:
@@ -258,13 +258,14 @@ Course |   University  | Duration | Effort | Certificate
 [Machine Learning for Data Analysis ](https://www.coursera.org/learn/machine-learning-data-analysis?specialization=data-analysis) |  Wesleyan University  |4 weeks | 3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/78DCBXGDZ4GP)
 [Data Analysis and Interpretation Capstone ](https://www.coursera.org/learn/data-analysis-capstone) |  Wesleyan University  |4 weeks | 2 Hours/Week| Starts 1st Dec
 [Health Informatics Specialization ](https://www.coursera.org/specializations/health-informatics) |  Johns Hopkins University  |Approx. 4 months to complete | 6 Hours/Week| Will be available after capstone completion
-[The Social and Technical Context of Health Informatics ](https://www.coursera.org/learn/the-socio-technical-health-informatics-context?specialization=health-informatics) | Johns Hopkins University  |4 weeks | 5 Hours/Week|[Verify Certificate] Completed,Waiting for peer review to get the certificate
-[Leading Change in Health Informatics ](https://www.coursera.org/learn/leading-change-health-informatics?specialization=health-informatics) | Johns Hopkins University  |4 weeks | 8 Hours/Week|[Verify Certificate] Completed,Waiting for peer review to get the certificate
-[The Outcomes and Interventions of Health Informatics ](https://www.coursera.org/learn/the-outcomes-and-interventions-of-health-informatics?specialization=health-informatics) | Johns Hopkins University  |4 weeks | 6 Hours/Week|[Verify Certificate] Completed,Waiting for peer review to get the certificate
-[ The Data Science of Health Informatics ]( https://www.coursera.org/learn/the-data-science-of-health-informatics?specialization=health-informatics) | Johns Hopkins University  |4 weeks | 6 Hours/Week|[Verify Certificate] Completed,Waiting for peer review to get the certificate
-[ Culminating Project in Health Informatics ]( https://www.coursera.org/learn/culminating-project-course-in-health-informatics) | Johns Hopkins University  |4 weeks | 6 Hours/Week|[Verify Certificate] In progress
+[The Social and Technical Context of Health Informatics ](https://www.coursera.org/learn/the-socio-technical-health-informatics-context?specialization=health-informatics) | Johns Hopkins University  |4 weeks | 5 Hours/Week| Completed,Waiting for peer review to get the certificate
+[Leading Change in Health Informatics ](https://www.coursera.org/learn/leading-change-health-informatics?specialization=health-informatics) | Johns Hopkins University  |4 weeks | 8 Hours/Week| Completed,Waiting for peer review to get the certificate
+[The Outcomes and Interventions of Health Informatics ](https://www.coursera.org/learn/the-outcomes-and-interventions-of-health-informatics?specialization=health-informatics) | Johns Hopkins University  |4 weeks | 6 Hours/Week|Completed,Waiting for peer review to get the certificate
+[ The Data Science of Health Informatics ]( https://www.coursera.org/learn/the-data-science-of-health-informatics?specialization=health-informatics) | Johns Hopkins University  |4 weeks | 6 Hours/Week| Completed,Waiting for peer review to get the certificate
+[ Culminating Project in Health Informatics ]( https://www.coursera.org/learn/culminating-project-course-in-health-informatics) | Johns Hopkins University  |4 weeks | 6 Hours/Week| In progress
 [ Epidemiology in Public Health Practice]( https://www.coursera.org/learn/epidemiology-public-health ) | Johns Hopkins University  |4 weeks | 2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/68A2G3LRL6BJ)
 [ Introduction to Clinical Data Science](https://www.coursera.org/learn/introduction-clinical-data-science) | University of Colorado System  |4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/LP6XQWHAWKBN)
+[ Writing in the Sciences](https://www.coursera.org/learn/sciwrite) | Stanford University |8 weeks | 3-5 Hours/Week|In progress
 
 
 
