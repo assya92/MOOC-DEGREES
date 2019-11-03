@@ -10,12 +10,12 @@ I mainly took courses offered by Coursera as they granted me financial assistanc
 ## Contents
 
 1) [MBA Curriculum](https://github.com/assya92/MOOC-DEGREES/#MBA-Curriculum)
-- [ Fixed Core courses](https://github.com/assya92/MOOC-DEGREES/#Fixed-Core)
+- [ Fixed Core Courses](https://github.com/assya92/MOOC-DEGREES/#Fixed-Core)
 - [ FLexible Core Courses](https://github.com/assya92/MOOC-DEGREES/#FLexible-Core)
 - [Finance Major Courses](https://github.com/assya92/MOOC-DEGREES/#Finance-Major )
 - [Elective Courses](https://github.com/assya92/MOOC-DEGREES/#Electives )
 
-2) [MS Bioinformatics/Health Informatics courses ](https://github.com/assya92/MOOC-DEGREES/#MS-Bioinformatics-Health-Informatics-Courses)
+2) [MS Bioinformatics/Health Informatics Courses ](https://github.com/assya92/MOOC-DEGREES/#MS-Bioinformatics-Health-Informatics-Courses)
 
 3) [IBM Professional Certificates](https://github.com/assya92/MOOC-DEGREES/#IBM-Professional-Certificates)
 -  [IBM Data Science Professional Certificate](https://github.com/assya92/MOOC-DEGREES/#IBM-Data-Science-Professional-Certificate)
