@@ -14,8 +14,13 @@ I mainly took courses offered by Coursera as they granted me financial assistanc
 - [ FLexible Core Courses](https://github.com/assya92/MOOC-DEGREES/#FLexible-Core)
 - [Finance Major Courses](https://github.com/assya92/MOOC-DEGREES/#Finance-Major )
 - [Elective Courses](https://github.com/assya92/MOOC-DEGREES/#Electives )
-2) [MS Bioinformatics/Health Informatics courses ](https://github.com/assya92/MOOC-DEGREES/#MS-Bioinformatics-Health-Informatics-Courses)
 
+2)[MS Bioinformatics/Health Informatics courses ](https://github.com/assya92/MOOC-DEGREES/#MS-Bioinformatics-Health-Informatics-Courses)
+
+3) [IBM Professional Certificates](https://github.com/assya92/MOOC-DEGREES/#IBM-Professional-Certificates)
+-  [IBM Data Science Professional Certificate](https://github.com/assya92/MOOC-DEGREES/#IBM-Data-Science-Professional-Certificate)
+-  [IBM Applied AI Professional Certificate](https://github.com/assya92/MOOC-DEGREES/#IBM-Applied-AI-Professional-Certificate)
+-  [IBM AI Engineering Professional Certificate](https://github.com/assya92/MOOC-DEGREES/#IBM-AI-Engineering-Professional-Certificate)
 
 
 ## MBA Curriculum 
@@ -254,6 +259,10 @@ Course |   University  | Duration | Effort | Certificate
 [Data Analysis and Interpretation Capstone ](https://www.coursera.org/learn/data-analysis-capstone) |  Wesleyan University  |4 weeks | 2 Hours/Week| Starts 1st Dec
 
 
+## IBM Professional Certificates
+## IBM Data Science Professional Certificate
+## IBM Applied AI Professional Certificate
+## IBM AI Engineering Professional Certificate
 
 
 
