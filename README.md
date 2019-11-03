@@ -257,12 +257,29 @@ Course |   University  | Duration | Effort | Certificate
 [Regression Modeling in Practice ](https://www.coursera.org/learn/regression-modeling-practice?specialization=data-analysis) |  Wesleyan University  |4 weeks | 4-5 Hours/Week|[Verify Certificate]( https://www.coursera.org/account/accomplishments/records/AUQV2FWVHT2D)
 [Machine Learning for Data Analysis ](https://www.coursera.org/learn/machine-learning-data-analysis?specialization=data-analysis) |  Wesleyan University  |4 weeks | 3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/78DCBXGDZ4GP)
 [Data Analysis and Interpretation Capstone ](https://www.coursera.org/learn/data-analysis-capstone) |  Wesleyan University  |4 weeks | 2 Hours/Week| Starts 1st Dec
+[Health Informatics Specialization ](https://www.coursera.org/specializations/health-informatics) |  Johns Hopkins University  |Approx. 4 months to complete | 6 Hours/Week| Will be available after capstone completion
+[The Social and Technical Context of Health Informatics ](https://www.coursera.org/learn/the-socio-technical-health-informatics-context?specialization=health-informatics) | Johns Hopkins University  |4 weeks | 5 Hours/Week|[Verify Certificate] Completed,Waiting for peer review to get the certificate
+[Leading Change in Health Informatics ](https://www.coursera.org/learn/leading-change-health-informatics?specialization=health-informatics) | Johns Hopkins University  |4 weeks | 8 Hours/Week|[Verify Certificate] Completed,Waiting for peer review to get the certificate
+[The Outcomes and Interventions of Health Informatics ](https://www.coursera.org/learn/the-outcomes-and-interventions-of-health-informatics?specialization=health-informatics) | Johns Hopkins University  |4 weeks | 6 Hours/Week|[Verify Certificate] Completed,Waiting for peer review to get the certificate
+[ The Data Science of Health Informatics ]( https://www.coursera.org/learn/the-data-science-of-health-informatics?specialization=health-informatics) | Johns Hopkins University  |4 weeks | 6 Hours/Week|[Verify Certificate] Completed,Waiting for peer review to get the certificate
+[ Culminating Project in Health Informatics ]( https://www.coursera.org/learn/culminating-project-course-in-health-informatics) | Johns Hopkins University  |4 weeks | 6 Hours/Week|[Verify Certificate] In progress
+[ Epidemiology in Public Health Practice]( https://www.coursera.org/learn/epidemiology-public-health ) | Johns Hopkins University  |4 weeks | 2 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/68A2G3LRL6BJ)
+[ Introduction to Clinical Data Science](https://www.coursera.org/learn/introduction-clinical-data-science) | University of Colorado System  |4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/LP6XQWHAWKBN)
+
+
+
 
 
 ## IBM Professional Certificates
 ## IBM Data Science Professional Certificate
+[IBM Data Science Professional Certificate ](https://www.coursera.org/professional-certificates/ibm-data-science)
+ In progress
 ## IBM Applied AI Professional Certificate
+[IBM Applied AI Professional Certificate ](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
+ In progress
 ## IBM AI Engineering Professional Certificate
+[IBM AI Engineering Professional Certificate ](https://www.coursera.org/professional-certificates/ai-engineer)
+ In progress 
 
 
 
