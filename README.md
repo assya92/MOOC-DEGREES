@@ -267,6 +267,7 @@ Course |   University  | Duration | Effort | Certificate
 [ Introduction to Clinical Data Science](https://www.coursera.org/learn/introduction-clinical-data-science) | University of Colorado System  |4 weeks | 1-3 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/LP6XQWHAWKBN)
 [ Writing in the Sciences](https://www.coursera.org/learn/sciwrite) | Stanford University |8 weeks | 3-5 Hours/Week|In progress
 [Understanding Clinical Research: Behind the Statistics](https://www.coursera.org/learn/clinical-research?) |University of Cape Town |6 weeks | 2-3 Hours/Week|In progress
+[Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) | University of California San Diego-National Research University Higher School of Economics  |5 weeks | 4-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/PM4N6RVL65GU)
 
 
 
