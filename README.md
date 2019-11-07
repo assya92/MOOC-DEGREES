@@ -268,6 +268,7 @@ Course |   University  | Duration | Effort | Certificate
 [ Writing in the Sciences](https://www.coursera.org/learn/sciwrite) | Stanford University |8 weeks | 3-5 Hours/Week|In progress
 [Understanding Clinical Research: Behind the Statistics](https://www.coursera.org/learn/clinical-research?) |University of Cape Town |6 weeks | 2-3 Hours/Week|In progress
 [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) | University of California San Diego-National Research University Higher School of Economics  |5 weeks | 4-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/PM4N6RVL65GU)
+[Artificial Intelligence for Healthcare: Opportunities and Challenges](https://www.futurelearn.com/courses/artificial-intelligence-for-healthcare-opportunities-and-challenges) |Taipei Medical University (TMU) |4 weeks | 1 Hours/Week| Audited only
 
 
 
