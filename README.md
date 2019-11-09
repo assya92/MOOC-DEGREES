@@ -269,9 +269,10 @@ Course |   University  | Duration | Effort | Certificate
 [Understanding Clinical Research: Behind the Statistics](https://www.coursera.org/learn/clinical-research?) |University of Cape Town |6 weeks | 2-3 Hours/Week|In progress
 [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) | University of California San Diego-National Research University Higher School of Economics  |5 weeks | 4-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/PM4N6RVL65GU)
 [Artificial Intelligence for Healthcare: Opportunities and Challenges](https://www.futurelearn.com/courses/artificial-intelligence-for-healthcare-opportunities-and-challenges) |Taipei Medical University (TMU) |4 weeks | 1 Hours/Week| Audited only
-[Machine Learning Specialization ](https://www.coursera.org/specializations/machine-learning) |  University of Washington  |Approx. 8 months to complete| 7 Hours/Week| Will be available soon
+[Machine Learning Specialization ](https://www.coursera.org/specializations/machine-learning) |  University of Washington  |Approx. 8 months to complete| 7 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/P534PJS7NG96)
 [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations) |  University of Washington  |6 weeks| 5-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/7RHVVHE2Z9Y3)
 [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) |  University of Washington  |6 weeks| 5-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/ABSW99CMASTQ)
+[Machine Learning: Classification](https://www.coursera.org/learn/ml-classification) |  University of Washington  |7 weeks| 5-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/D4TE6RF6YRWU)
 [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval) |  University of Washington  |6 weeks| 5-8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/SEDU5UF6DMBT)
 
 
